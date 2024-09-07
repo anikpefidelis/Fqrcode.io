@@ -1,0 +1,72 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    width: 581px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+        
+
+    &_banner {
+        &_img{
+    width: 100%;
+    border-radius: 15px;
+     }
+    }
+
+    &_title{
+      color: hsl(218, 44%, 22%);
+      padding: 20px 5px 0 5px;
+       }
+    
+    &_description {
+     color: hsl(220, 15%, 55%);
+     padding: 5px 5px 0 5px;
+       }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
